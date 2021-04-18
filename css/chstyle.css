@@ -1,0 +1,61 @@
+.topcon {
+  position: relative;
+  left: 106px;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  border: solid;
+  border-width: 1px;
+}
+
+.middlecon {
+  position: relative;
+  bottom: 52px;
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+  border: solid;
+  border-width: 1px;
+}
+
+.botcon {
+  position: relative;
+  bottom: 104px;
+  left: 54px;
+  background-color: green;
+  height: 50px;
+  width: 50px;
+  border: solid;
+  border-width: 1px;
+}
+
+.topcon4 {
+  position: absolute;
+  left: 112px;
+  margin-top: 104px;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  border: solid;
+  border-width: 1px;
+}
+
+.middlecon4 {
+  position: absolute;
+  left: 60px;
+  margin-top: 52px;
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+  border: solid;
+  border-width: 1px;
+}
+
+.botcon4 {
+  position: absolute;
+  background-color: green;
+  height: 50px;
+  width: 50px;
+  border: solid;
+  border-width: 1px;
+}

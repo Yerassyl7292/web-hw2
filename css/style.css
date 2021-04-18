@@ -1,0 +1,95 @@
+body {
+  background-color: #FCF3CF;
+}
+
+a {
+  display: block;
+}
+
+p {
+  font-family: verdana;
+}
+
+hr {
+  width: 100%;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: blue;
+}
+
+h2 {
+  color: #054071;
+}
+
+#mypic {
+  border-radius: 150%;
+}
+#hack{
+  position: relative;
+  border-radius: 100%;
+  right: 550px;
+  float: right;
+  width: 400px;
+  height: 285px;
+}
+
+#add {
+  text-align: center;
+  position: fixed;
+  right: 25px;
+  top: 25px;
+  width: 15%;
+  height: 20%;
+  background-color: gold;
+  border: solid;
+  border-style: groove;
+}
+
+#phone {
+  margin-right: 15px;
+  float: left;
+  width: 200px;
+  height: 170px;
+  border-style: solid;
+  
+}
+
+#aktau {
+  float: right;
+  border-style: solid;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 220px;
+  height: 150px;
+}
+
+.town {
+  padding-left: 10px;
+  background-color: silver;
+  border: solid;
+}
+
+.topdiv {
+  display: inline-block;
+  position: relative;
+  height: 25%;
+  width: 100%;
+  border-style: dashed;
+  background-color: silver;
+  margin-bottom: 10px;
+}
+
+.middiv {
+  font-family: verdana;
+  background-color: silver;
+  border: solid;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+}
+
+.botdiv {
+  background-color: silver;
+  border: solid;
+  padding-left: 10px;
+}
